@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Planilha Autônoma - dados e logs gerados em runtime
+data/*.xlsx
+logs/*.log
